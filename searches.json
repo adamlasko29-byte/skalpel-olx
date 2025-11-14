@@ -1,26 +1,26 @@
 [
     {
-        "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-4090/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=500&search%5Bfilter_float_price:to%5D=6000&search%5Bfilter_enum_graphicscardmemory%5D%5B0%5D=16gb-and-more",
-        "min_price": 1000,
-        "max_price": 6000,
-        "required_keyword": "4090"
+        "url": "https://www.olx.pl/elektronika/telefony/smartfony-telefony-komorkowe/iphone/jaroszow/?search%5Bdist%5D=75&search%5Border%5D=filter_float_price:asc&search%5Bfilter_enum_phonemodel%5D%5B0%5D=iphone-13-mini",
+        "min_price": 200,
+        "max_price": 900,
+        "required_keyword": "13 mini"
     },
     {
-        "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-4080/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=500&search%5Bfilter_float_price:to%5D=3500&search%5Bfilter_enum_graphicscardmemory%5D%5B0%5D=16gb-and-more",
-        "min_price": 1000,
-        "max_price": 3000,
-        "required_keyword": "4080"
-    },
-    {
-        "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-4070/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=500&search%5Bfilter_float_price:to%5D=3000",
-        "min_price": 1000,
-        "max_price": 2100,
-        "required_keyword": "4070"
-    },
-    {
-        "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-4060/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=500&search%5Bfilter_float_price:to%5D=1000",
-        "min_price": 500,
+        "url": "https://www.olx.pl/elektronika/telefony/smartfony-telefony-komorkowe/iphone/jaroszow/?search%5Bdist%5D=75&search%5Border%5D=filter_float_price:asc&search%5Bfilter_enum_phonemodel%5D%5B0%5D=iphone-13",
+        "min_price": 200,
         "max_price": 1000,
-        "required_keyword": "4060"
+        "required_keyword": "13"
+    },
+    {
+        "url": "https://www.olx.pl/elektronika/telefony/smartfony-telefony-komorkowe/iphone/jaroszow/?search%5Bdist%5D=75&search%5Border%5D=filter_float_price:asc&search%5Bfilter_enum_phonemodel%5D%5B0%5D=iphone-13-pro",
+        "min_price": 200,
+        "max_price": 1100,
+        "required_keyword": "13 pro"
+    },
+    {
+        "url": "https://www.olx.pl/elektronika/telefony/smartfony-telefony-komorkowe/iphone/jaroszow/?search%5Bdist%5D=75&search%5Border%5D=filter_float_price:asc&search%5Bfilter_enum_phonemodel%5D%5B0%5D=iphone-14",
+        "min_price": 200,
+        "max_price": 1200,
+        "required_keyword": "14"
     }
 ]
